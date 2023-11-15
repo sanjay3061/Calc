@@ -25,6 +25,7 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
 <html>
 <head>
     <title>Simple Calculator</title>
@@ -85,6 +86,7 @@ Publish the website in the given URL.
             background-color: #eed8f6;
         }
     </style>
+
 </head>
 <body>
     <div id="calculator-container">
@@ -146,7 +148,9 @@ Publish the website in the given URL.
     </script>
 </body>
 </html>
+```
 ## OUTPUT:
+
 ![Screenshot (17)](https://github.com/sanjay3061/Calc/assets/121215929/7caabfb5-8777-40ab-9623-e3b48f34bf63)
 
 ## RESULT:
